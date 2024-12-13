@@ -1,1 +1,0 @@
-# Latex2pdf_with_GithubAction
